@@ -1,0 +1,6 @@
+{
+  "name": "Khmer AI Content Studio",
+  "description": "Professional desktop-grade studio for Cambodian creators to research viral topics, generate natural Khmer video scripts, craft cinematic Google Flow prompts, and plan B-roll production.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
